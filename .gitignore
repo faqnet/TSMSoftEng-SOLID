@@ -1,0 +1,16 @@
+
+
+# ignore goland project config
+.idea
+.vscode
+.gradle/
+!gradle-wrapper.jar
+
+
+gradle.properties
+*.iml
+*/out
+.DS_Store
+*.db
+*.env
+/build/
